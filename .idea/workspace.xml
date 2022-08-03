@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d238c2b-a81b-45dc-9b52-5828de143aa4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/others/GaoJie.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/study02/JiChengTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.GaoJieKt">
+  <component name="RunManager" selected="Kotlin.JiChengTestKt">
     <configuration name="FirstOneKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="study01.FirstOneKt" />
       <module name="HelloKotlin.main" />
@@ -67,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
+    <configuration name="JiChengTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study02.JiChengTestKt" />
       <module name="HelloKotlin.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.JiChengTestKt" />
         <item itemvalue="Kotlin.GaoJieKt" />
         <item itemvalue="Kotlin.PersonKt" />
         <item itemvalue="Kotlin.Hello01Kt" />
         <item itemvalue="Kotlin.FirstOneKt" />
-        <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -114,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659428820101</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fold  函数">
+      <created>1659511970084</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659511970084</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,18 +144,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="OneDay" />
     <MESSAGE value="TwoDay" />
-    <option name="LAST_COMMIT_MESSAGE" value="TwoDay" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/others/GaoJie.kt</url>
-          <line>6</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="fold  函数" />
+    <option name="LAST_COMMIT_MESSAGE" value="fold  函数" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
