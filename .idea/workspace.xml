@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d238c2b-a81b-45dc-9b52-5828de143aa4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/study02/JiChengTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/study02/KuoZhanTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,14 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.JiChengTestKt">
-    <configuration name="FirstOneKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study01.FirstOneKt" />
-      <module name="HelloKotlin.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.KuoZhanTestKt">
     <configuration name="GaoJieKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="others.GaoJieKt" />
       <module name="HelloKotlin.main" />
@@ -74,6 +67,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="KuoZhanTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study02.KuoZhanTestKt" />
+      <module name="HelloKotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PersonKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="study02.PersonKt" />
       <module name="HelloKotlin.main" />
@@ -83,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.KuoZhanTestKt" />
         <item itemvalue="Kotlin.JiChengTestKt" />
         <item itemvalue="Kotlin.GaoJieKt" />
         <item itemvalue="Kotlin.PersonKt" />
         <item itemvalue="Kotlin.Hello01Kt" />
-        <item itemvalue="Kotlin.FirstOneKt" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659511970084</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="继承 特性 学习">
+      <created>1659513272763</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659513272763</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,7 +152,8 @@
     <MESSAGE value="OneDay" />
     <MESSAGE value="TwoDay" />
     <MESSAGE value="fold  函数" />
-    <option name="LAST_COMMIT_MESSAGE" value="fold  函数" />
+    <MESSAGE value="继承 特性 学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="继承 特性 学习" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
